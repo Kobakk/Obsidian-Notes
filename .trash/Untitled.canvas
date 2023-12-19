@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"43b4c4ed32448054","type":"text","text":"metodos.inc","x":-180,"y":-220,"width":160,"height":60},
+		{"id":"487fb8987f009fc8","x":-380,"y":-100,"width":140,"height":60,"type":"text","text":"form.php"}
+	],
+	"edges":[
+		{"id":"bd4ba2854b336eca","fromNode":"487fb8987f009fc8","fromSide":"top","toNode":"43b4c4ed32448054","toSide":"bottom"}
+	]
+}
